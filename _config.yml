@@ -7,6 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Tech Blog, Matt's Blog, Computer Science, CS, Software Engineering, SWE"
 url: "https://mattchen.dev/blogs"          # your host, for absolute URL
 baseurl: "/blogs"      # for example, '/blog' if your blog hosted on 'host/blog'
+# baseurl: ""
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
