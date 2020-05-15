@@ -4,7 +4,7 @@ title:      B+ Tree Implementation Tips (1)
 subtitle:   two types of node
 date:       2020-05-14
 author:     Matt Chen
-header-img: img/post-bg-database.png
+header-img: img/post-bg-database.jpg
 catalog: true
 tags:
     - Database
